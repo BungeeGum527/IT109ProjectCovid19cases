@@ -1,0 +1,11 @@
+.main_container{
+	border: 1px solid black;
+}
+
+#mapid{
+	height: 100%;
+}
+
+#map{
+	height: 100%;
+}
